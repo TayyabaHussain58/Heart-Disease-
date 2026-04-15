@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1046754751820",
+    "project_id": "labproject-dcfe8",
+    "storage_bucket": "labproject-dcfe8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046754751820:android:0b356b40dfca931dfccbe9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauTy15K4Sr43KtVlaKT6hPQxgB6aLryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046754751820:android:9be6299ed9f3b54ffccbe9",
+        "android_client_info": {
+          "package_name": "com.example.lab13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauTy15K4Sr43KtVlaKT6hPQxgB6aLryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046754751820:android:90aae98335faad9efccbe9",
+        "android_client_info": {
+          "package_name": "com.example.labterminal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauTy15K4Sr43KtVlaKT6hPQxgB6aLryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046754751820:android:2042051a823b198bfccbe9",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauTy15K4Sr43KtVlaKT6hPQxgB6aLryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046754751820:android:b6c3f99678acd856fccbe9",
+        "android_client_info": {
+          "package_name": "com.example.projectterminal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauTy15K4Sr43KtVlaKT6hPQxgB6aLryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
